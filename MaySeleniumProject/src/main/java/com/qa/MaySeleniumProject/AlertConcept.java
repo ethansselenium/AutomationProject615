@@ -14,6 +14,7 @@ public class AlertConcept {
 
 	public static void main(String[] args) 
 	{
+		//test
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		String url = "https://demo.guru99.com/test/delete_customer.php";
