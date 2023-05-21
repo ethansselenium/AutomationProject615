@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83263" started-at="2023-04-02T05:09:24Z" finished-at="2023-04-02T05:10:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83263" started-at="2023-04-02T05:09:24Z" finished-at="2023-04-02T05:10:47Z">
+      <class name="SeleniumProject.Automation615.LoginTest">
+        <test-method status="PASS" signature="ServerUp()[pri:0, instance:SeleniumProject.Automation615.LoginTest@e139a4]" name="ServerUp" is-config="true" duration-ms="29" started-at="2023-04-02T10:39:24Z" finished-at="2023-04-02T10:39:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ServerUp -->
+        <test-method status="PASS" signature="LanchingApplicaiton()[pri:0, instance:SeleniumProject.Automation615.LoginTest@e139a4]" name="LanchingApplicaiton" is-config="true" duration-ms="57368" started-at="2023-04-02T10:39:24Z" finished-at="2023-04-02T10:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LanchingApplicaiton -->
+        <test-method status="PASS" signature="LaunchingMobile()[pri:0, instance:SeleniumProject.Automation615.LoginTest@e139a4]" name="LaunchingMobile" duration-ms="6900" started-at="2023-04-02T10:40:21Z" finished-at="2023-04-02T10:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchingMobile -->
+        <test-method status="PASS" signature="ClosingApplicaiton()[pri:0, instance:SeleniumProject.Automation615.LoginTest@e139a4]" name="ClosingApplicaiton" is-config="true" duration-ms="1552" started-at="2023-04-02T10:40:28Z" finished-at="2023-04-02T10:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingApplicaiton -->
+        <test-method status="PASS" signature="LanchingApplicaiton()[pri:0, instance:SeleniumProject.Automation615.LoginTest@e139a4]" name="LanchingApplicaiton" is-config="true" duration-ms="12981" started-at="2023-04-02T10:40:30Z" finished-at="2023-04-02T10:40:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LanchingApplicaiton -->
+        <test-method status="PASS" signature="Account()[pri:1, instance:SeleniumProject.Automation615.LoginTest@e139a4]" name="Account" duration-ms="3319" started-at="2023-04-02T10:40:43Z" finished-at="2023-04-02T10:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Account -->
+        <test-method status="PASS" signature="ClosingApplicaiton()[pri:0, instance:SeleniumProject.Automation615.LoginTest@e139a4]" name="ClosingApplicaiton" is-config="true" duration-ms="636" started-at="2023-04-02T10:40:47Z" finished-at="2023-04-02T10:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingApplicaiton -->
+        <test-method status="PASS" signature="ServerDown()[pri:0, instance:SeleniumProject.Automation615.LoginTest@e139a4]" name="ServerDown" is-config="true" duration-ms="1" started-at="2023-04-02T10:40:48Z" finished-at="2023-04-02T10:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ServerDown -->
+      </class> <!-- SeleniumProject.Automation615.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
